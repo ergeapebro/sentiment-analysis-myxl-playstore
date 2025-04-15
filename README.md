@@ -1,2 +1,2 @@
 # Sentiment Analysis - myXL Playstore
-- Sentiment analysis using Machine Learning and Deep Learning using TF-IDF and FastText
+- Sentiment analysis using Machine Learning and Deep Learning algorithm with TF-IDF and FastText
